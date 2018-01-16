@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">24x7Weather</string>
+    <string name="no_city_found">No City Found</string>
 </resources>
